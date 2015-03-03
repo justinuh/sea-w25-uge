@@ -1,0 +1,12 @@
+mv commmand is moving
+mv example1.txt example2.txt
+   result: example2.txt (renaming)
+
+touch delete.txt
+git add delete.txt
+git commit -m "delete operation"
+
+git rm
+git add <name>
+git commit -m "cleaning up repo"
+git merge adds one branch to another branch

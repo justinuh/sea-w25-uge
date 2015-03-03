@@ -1,0 +1,13 @@
+data as plain text easy to see data
+nested subdirectories
+many small programs
+input output
+path represent a location in the file system
+
+linux is a case sensitive operating system
+
+osx and windows are case insensitive
+
+.. goes up one directory
+. single dot mean stay on current directory
+
